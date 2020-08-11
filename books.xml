@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="books.xsl"?>  
+<!DOCTYPE books SYSTEM "books.dtd">
+<books> 
+	<book>
+		<Title> To Kill a Mockingbird </Title>
+		<Author> HARPER LEE </Author>
+		<Genre> thriller </Genre>
+		<Copyright> 1960 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-0446310789 </Isbn>
+		<Publisher> J.B.Lippincott </Publisher>
+		<Price> 400 </Price>
+ 	</book>
+ 	<book>
+		<Title> java server page </Title>
+		<Author> HANS BERGESTEN </Author>
+		<Genre> education </Genre>
+		<Copyright> 2001</Copyright>
+		<Edition> second </Edition>
+		<Isbn> 81-265 </Isbn>
+		<Publisher> O'relilly </Publisher>
+		<Price> 200 </Price>
+	</book>
+	<book>
+		<Title> The Alchemist </Title>
+		<Author> PAULO COEHLO </Author>
+		<Genre> Sci-fi </Genre>
+		<Copyright> 2020 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-04202010789 </Isbn>
+		<Publisher> HarperCollins </Publisher>
+		<Price> 250 </Price>
+ 	</book>
+ 	<book>
+		<Title> Five Point Someone</Title>
+		<Author> CHETAN BHAGAT </Author>
+		<Genre> Humour </Genre>
+		<Copyright> 2014 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 9788129135490;</Isbn>
+		<Publisher> Rupa Publications </Publisher>
+		<Price> 300 </Price>
+ 	</book>
+ 	<book>
+		<Title> Five Go Adventuring Again</Title>
+		<Author> ENID BLYNTON </Author>
+		<Genre> Mystery </Genre>
+		<Copyright> 1960 </Copyright>
+		<Edition> first </Edition>
+		<Isbn> 978-0446310789 </Isbn>
+		<Publisher>Hodder and Stoughton</Publisher>
+		<Price> 100 </Price>
+ 	</book>
+</books> 
